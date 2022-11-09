@@ -1,0 +1,14 @@
+{
+    "name": "@ghotst0xdeadbeef/js-utils",
+    "version": "1.0.0",
+    "author": "ghotst0xdeadbeef",
+    "description": "第一个发布的包",
+    "keywords": [ "ghotst0xdeadbeef" ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ghotst0xdeadbeef/js-utils"
+    },
+    "homepage": "https://github.com/ghotst0xdeadbeef/js-utils",
+    "license": "MIT",
+    "main": "index.js"
+}
